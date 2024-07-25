@@ -21,7 +21,7 @@ The data used in this project was sources from [Kaggle](https://www.kaggle.com/d
 The code for the creation of the tables can be found [here]()
 
 ### ER Diagram
-![ERD](path)
+![ERD](/assets/img/soccer_schema.png)
 
 ## Analysis
 I created the questions based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate. In this repository, you can find the:
