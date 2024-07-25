@@ -2,8 +2,8 @@
 
 ## Table of Contents
 1. [Project Description](#project-description)
-2. Data(#data)
-3. Analysis(#analysis)
+2. [Data](#data)
+3. [Analysis](#analysis)
 
 ## Project Description
 This project involves analyzing soccer data sourced from Kaggle. The data includes information on game events, games, players, clubs, and competitions. The project schema consists of five tables: `game_events`, `games`, `players`, `clubs`, and `competitions`. Using PostgreSQL in pgAdmin, various queries were created to answer a set of predefined questions about the data.
