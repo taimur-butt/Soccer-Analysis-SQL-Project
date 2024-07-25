@@ -24,7 +24,10 @@ The code for the creation of the tables can be found [here]()
 ![ERD](/assets/img/soccer_schema.png)
 
 ## Analysis
-I created the questions based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate. In this repository, you can find the:
-- [List of questions]()
-- [Queries for each questions]()
-- [Screenshots of query results]()
+### Questions
+I created a [set of questions]() based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate.
+
+### Tools Used
+- **Excel:** The CSV files with the data can be found in [here]()
+- **PostgreSQL/pgAdmin:** The queries that address each question can be found in [here](), along with screenshots of results
+
