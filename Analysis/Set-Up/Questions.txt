@@ -1,0 +1,7 @@
+Questions:
+
+1) Which players have scored more than 200 goals? What are their total goals, assists, yellow cards, and red cards?
+2) How many assists does Messi have?
+3) Who has won the Golden Boot since 2018? How many goals did the winner score?
+4) Which teams have had the best Goal Difference in the past two seasons?
+5) What are the Win/Draw/Loss numbers for teams in the Premier League?
