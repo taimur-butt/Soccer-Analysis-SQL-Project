@@ -24,10 +24,25 @@ The code for the creation of the tables can be found [here]()
 ![ERD](/assets/img/soccer_schema.png)
 
 ## Analysis
-### Questions
-I created a [set of questions]() based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate.
-
 ### Tools Used
 - **Excel:** The CSV files with the data can be found in [here]()
-- **PostgreSQL/pgAdmin:** The queries that address each question can be found in [here](), along with screenshots of results
+- **PostgreSQL/pgAdmin:** The queries that address each question can be found in [here]()
+
+### Questions
+I created a [set of questions]() based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate. Below is each question with a screenshot of the query result:
+
+1) Which players have scored more than 200 goals? What are their total goals, assists, yellow cards, and red cards?
+![]()
+
+2) How many assists does Messi have?
+![]()
+
+3) Who has won the Golden Boot since 2018? How many goals did the winner score?
+![]()
+
+4) Which teams have had the best Goal Difference in the past two seasons?
+![]()
+
+5) What are the Win/Draw/Loss numbers for teams in the Premier League?
+![]()
 
