@@ -29,7 +29,7 @@ The code for the creation of the tables can be found [here](/analysis/setup/Tabl
 - **PostgreSQL/pgAdmin:** The queries that address each question can be found in the [SQL Queries](analysis/sql-queries) folder
 
 ### Questions
-I created a [set of questions]() based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate. Below is each question with a screenshot of the query result:
+I created a [set of questions](/analysis/setup/Questions.txt) based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate. Below is each question with a screenshot of the query result:
 
 1) Which players have scored more than 200 goals? What are their total goals, assists, yellow cards, and red cards?
 ![Answer 1](/assets/img/(A1)-Top-Scorers-Stats.png)
