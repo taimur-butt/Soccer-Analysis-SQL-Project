@@ -10,7 +10,7 @@ This project involves analyzing soccer data sourced from Kaggle. The data includ
 
 ## Data
 ### Database Schema
-The data used in this project was sources from [Kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores). I created five PostgreSQL tables to match the structure of five CSV files from the dataset, and then imported the CSV data into the tables.
+The data used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores). I created five PostgreSQL tables to match the structure of five CSV files from the dataset, and then imported the CSV data into the tables.
 
 - **Game Events:** Stores data about game events such as goals, assists, substitutions, and cards
 - **Games:** Contains data about individual games
