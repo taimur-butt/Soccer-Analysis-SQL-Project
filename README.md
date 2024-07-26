@@ -18,15 +18,15 @@ The data used in this project was sourced from [Kaggle](https://www.kaggle.com/d
 - **Clubs:** Contains club details
 - **Competitions:** Contains information about competitions/leagues
 
-The code for the creation of the tables can be found [here](/analysis/setup/Table Creation.sql)
+The code for the creation of the tables can be found [here](/analysis/setup/Table-Creation.sql)
 
 ### ER Diagram
 ![ERD](/assets/img/soccer_schema.png)
 
 ## Analysis
 ### Tools Used
-- **Excel:** The CSV files with the data can be found in [here](/analysis/setup/source-data)
-- **PostgreSQL/pgAdmin:** The queries that address each question can be found in [here]()
+- **Excel:** The CSV files with the data can be found in the [Source Data](/analysis/setup/source-data) folder
+- **PostgreSQL/pgAdmin:** The queries that address each question can be found in the [SQL Queries](analysis/sql-queries) folder
 
 ### Questions
 I created a [set of questions]() based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate. Below is each question with a screenshot of the query result:
