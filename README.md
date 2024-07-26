@@ -25,11 +25,11 @@ The code for the creation of the tables can be found [here](https://github.com/t
 
 ## Analysis
 ### Tools Used
-- **Excel:** The CSV files with the data can be found in the [Source Data](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/tree/main/analysis/setup/source-data) folder
-- **PostgreSQL/pgAdmin:** The queries that address each question can be found in the [SQL Queries](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/tree/main/analysis/sql-queries) folder
+- **Excel:** The CSV files with the data can be found in [Source Data](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/tree/main/analysis/setup/source-data) folder
+- **PostgreSQL/pgAdmin:** The queries that address each question can be found in [SQL Queries](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/tree/main/analysis/sql-queries) folder
 
 ### Questions
-I created a [set of questions](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/setup/Questions.txt) based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate. Below is each question with a screenshot of the query result **(can click on any screenshot to see specific query)**:
+I created a [set of questions](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/setup/Questions.txt) based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate. Below is each question with a screenshot of the query result **(click on any screenshot to see specific query)**:
 
 1) Which players have scored more than 200 goals? What are their total goals, assists, yellow cards, and red cards?
 
