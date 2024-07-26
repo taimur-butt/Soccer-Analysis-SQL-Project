@@ -33,7 +33,7 @@ I created a [set of questions](https://github.com/taimur-butt/Soccer-Analysis-SQ
 
 1) Which players have scored more than 200 goals? What are their total goals, assists, yellow cards, and red cards?
 
-![Answer 1](/assets/img/(A1)-Top-Scorers-Stats.png)]
+![Answer 1](/assets/img/(A1)-Top-Scorers-Stats.png)
 
 2) How many assists does Messi have?
 
