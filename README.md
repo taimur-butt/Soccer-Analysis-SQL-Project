@@ -31,23 +31,23 @@ The code for the creation of the tables can be found [here](https://github.com/t
 ### Questions
 I created a [set of questions](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/setup/Questions.txt) based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate. Below is each question with a screenshot of the query result **(click on any screenshot to see specific query)**:
 
-1) Which players have scored more than 200 goals? What are their total goals, assists, yellow cards, and red cards?
+#### 1) Which players have scored more than 200 goals? What are their total goals, assists, yellow cards, and red cards?
 
 ![Answer1](assets/img/(A1)-Top-Scorers-Stats.png)
 
-2) How many assists does Messi have?
+#### 2) How many assists does Messi have?
 
-[![Answer 2](/assets/img/(A2)-Messi-Assists.png)](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/sql-queries/(A2)-Messi-Assists.sql)
+![Answer2](assets/img/(A2)-Messi-Assists.png)
 
-3) Who has won the Golden Boot since 2018? How many goals did the winner score?
+#### 3) Who has won the Golden Boot since 2018? How many goals did the winner score?
 
-[![Answer 3](/assets/img/(A3)-Golden-Boot-Winners.png)](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/sql-queries/(A3)-Golden-Boot-Winners.sql)
+![Answer3](assets/img(A3)-Golden-Boot-Winners.png)
 
-4) Which teams have had the best Goal Difference in the past two seasons?
+#### 4) Which teams have had the best Goal Difference in the past two seasons?
 
 [![Answer 4](/assets/img/(A4)-Best-Goal-Difference.png)](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/sql-queries/(A4)-Best-Goal-Difference.sql)
 
-5) What are the Win/Draw/Loss numbers for teams in the Premier League?
+#### 5) What are the Win/Draw/Loss numbers for teams in the Premier League?
 
 [![Answer 5](/assets/img/(A5)-Premier-League-Team-Results.png)](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/sql-queries/(A5)-Premier-League-Team-Results.sql)
 
