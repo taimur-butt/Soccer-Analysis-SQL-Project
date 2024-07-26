@@ -21,7 +21,7 @@ The data used in this project was sourced from [Kaggle](https://www.kaggle.com/d
 The code for the creation of the tables can be found [here](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/setup/Table-Creation.sql)
 
 ### ER Diagram
-[![ERD](/assets/img/Soccer-Schema.png)](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/tree/main/analysis/setup/source-data)
+[![ERD](/assets/img/Soccer-Schema.png)]
 
 ## Analysis
 ### Tools Used
@@ -45,9 +45,9 @@ I created a [set of questions](https://github.com/taimur-butt/Soccer-Analysis-SQ
 
 **4) Which teams have had the best Goal Difference in the past two seasons?**
 
-![Answer1](assets/img/(A1)-Top-Scorers-Stats.png)
+![Answer4](assets/img/(A4)-Best-Goal-Difference.png)
 
 **5) What are the Win/Draw/Loss numbers for teams in the Premier League?**
 
-![Answer1](assets/img/(A1)-Top-Scorers-Stats.png)
+![Answer5](assets/img/(A5)-Premier-League-Team-Results.png)
 
