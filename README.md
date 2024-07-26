@@ -18,36 +18,36 @@ The data used in this project was sourced from [Kaggle](https://www.kaggle.com/d
 - **Clubs:** Contains club details
 - **Competitions:** Contains information about competitions/leagues
 
-The code for the creation of the tables can be found [here](/analysis/setup/Table-Creation.sql)
+The code for the creation of the tables can be found [here](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/setup/Table-Creation.sql)
 
 ### ER Diagram
 ![ERD](/assets/img/Soccer-Schema.png)
 
 ## Analysis
 ### Tools Used
-- **Excel:** The CSV files with the data can be found in the [Source Data](/analysis/setup/source-data) folder
-- **PostgreSQL/pgAdmin:** The queries that address each question can be found in the [SQL Queries](analysis/sql-queries) folder
+- **Excel:** The CSV files with the data can be found in the [Source Data](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/tree/main/analysis/setup/source-data) folder
+- **PostgreSQL/pgAdmin:** The queries that address each question can be found in the [SQL Queries](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/tree/main/analysis/sql-queries) folder
 
 ### Questions
-I created a [set of questions](/analysis/setup/Questions.txt) based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate. Below is each question with a screenshot of the query result **(can click on any screenshot to see specific query)**:
+I created a [set of questions](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/setup/Questions.txt) based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate. Below is each question with a screenshot of the query result **(can click on any screenshot to see specific query)**:
 
 1) Which players have scored more than 200 goals? What are their total goals, assists, yellow cards, and red cards?
 
-[![Answer 1](/assets/img/(A1)-Top-Scorers-Stats.png)](analysis/sql-queries/(A1)-Top-Scorers-Stats.sql)
+[![Answer 1](/assets/img/(A1)-Top-Scorers-Stats.png)](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/sql-queries/(A1)-Top-Scorers-Stats.sql)
 
 2) How many assists does Messi have?
 
-[![Answer 2](/assets/img/(A2)-Messi-Assists.png)](analysis/sql-queries/(A2)-Messi-Assists.sql)
+[![Answer 2](/assets/img/(A2)-Messi-Assists.png)](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/sql-queries/(A2)-Messi-Assists.sql)
 
 3) Who has won the Golden Boot since 2018? How many goals did the winner score?
 
-[![Answer 3](/assets/img/(A3)-Golden-Boot-Winners.png)](analysis/sql-queries/(A3)-Golden-Boot-Winners.sql)
+[![Answer 3](/assets/img/(A3)-Golden-Boot-Winners.png)](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/sql-queries/(A3)-Golden-Boot-Winners.sql)
 
 4) Which teams have had the best Goal Difference in the past two seasons?
 
-[![Answer 4](/assets/img/(A4)-Best-Goal-Difference.png)](analysis/sql-queries/(A4)-Best-Goal-Difference.sql)
+[![Answer 4](/assets/img/(A4)-Best-Goal-Difference.png)](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/sql-queries/(A4)-Best-Goal-Difference.sql)
 
 5) What are the Win/Draw/Loss numbers for teams in the Premier League?
 
-[![Answer 5](/assets/img/(A5)-Premier-League-Team-Results.png)](analysis/sql-queries/(A5)-Premier-League-Team-Results.sql)
+[![Answer 5](/assets/img/(A5)-Premier-League-Team-Results.png)](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/sql-queries/(A5)-Premier-League-Team-Results.sql)
 
