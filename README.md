@@ -33,15 +33,15 @@ I created a [set of questions](https://github.com/taimur-butt/Soccer-Analysis-SQ
 
 **1) Which players have scored more than 200 goals? What are their total goals, assists, yellow cards, and red cards?**
 
-![Answer1](assets/img/(A1)-Top-Scorers-Stats.png)
+![Answer1](/assets/img/(A1)-Top-Scorers-Stats.png)
 
 **2) How many assists does Messi have?**
 
-![Answer2](assets/img/(A2)-Messi-Assists.png)
+![Answer2](/assets/img/(A2)-Messi-Assists.png)
 
 **3) Who has won the Golden Boot since 2018? How many goals did the winner score?**
 
-![Answer1](assets/img/(A1)-Top-Scorers-Stats.png)
+![Answer3](/assets/img/(A3)-Golden-Boot-Winners.png)
 
 **4) Which teams have had the best Goal Difference in the past two seasons?**
 
