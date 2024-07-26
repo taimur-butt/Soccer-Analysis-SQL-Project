@@ -37,17 +37,17 @@ I created a [set of questions](/analysis/setup/Questions.txt) based on my knowle
 
 2) How many assists does Messi have?
 
-![Answer 2](/assets/img/(A2)-Messi-Assists.png)
+[![Answer 2](/assets/img/(A2)-Messi-Assists.png)](analysis/sql-queries/(A2)-Messi-Assists.sql)
 
 3) Who has won the Golden Boot since 2018? How many goals did the winner score?
 
-![Answer 3](/assets/img/(A3)-Golden-Boot-Winners.png)
+[![Answer 3](/assets/img/(A3)-Golden-Boot-Winners.png)](analysis/sql-queries/(A3)-Golden-Boot-Winners.sql)
 
 4) Which teams have had the best Goal Difference in the past two seasons?
 
-![Answer 4](/assets/img/(A4)-Best-Goal-Difference.png)
+[![Answer 4](/assets/img/(A4)-Best-Goal-Difference.png)](analysis/sql-queries/(A4)-Best-Goal-Difference.sql)
 
 5) What are the Win/Draw/Loss numbers for teams in the Premier League?
 
-![Answer 5](/assets/img/(A5)-Premier-League-Team-Results.png)
+[![Answer 5](/assets/img/(A5)-Premier-League-Team-Results.png)](analysis/sql-queries/(A5)-Premier-League-Team-Results.sql)
 
