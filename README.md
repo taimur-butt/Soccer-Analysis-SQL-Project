@@ -18,7 +18,7 @@ The data used in this project was sourced from [Kaggle](https://www.kaggle.com/d
 - **Clubs:** Contains club details
 - **Competitions:** Contains information about competitions/leagues
 
-The code for the creation of the tables can be found [here](/analysis/setup/Table-Creation.sql)
+The code for the creation of the tables can be found [here](/analysis/setup/Table Creation.sql)
 
 ### ER Diagram
 ![ERD](/assets/img/soccer_schema.png)
