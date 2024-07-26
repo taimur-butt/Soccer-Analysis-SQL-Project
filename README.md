@@ -21,7 +21,7 @@ The data used in this project was sourced from [Kaggle](https://www.kaggle.com/d
 The code for the creation of the tables can be found [here](/analysis/setup/Table-Creation.sql)
 
 ### ER Diagram
-![ERD](/assets/img/soccer_schema.png)
+![ERD](/assets/img/Soccer-Schema.png)
 
 ## Analysis
 ### Tools Used
