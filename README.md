@@ -18,14 +18,14 @@ The data used in this project was sourced from [Kaggle](https://www.kaggle.com/d
 - **Clubs:** Contains club details
 - **Competitions:** Contains information about competitions/leagues
 
-The code for the creation of the tables can be found [here]()
+The code for the creation of the tables can be found [here](/analysis/setup/Table-Creation.sql)
 
 ### ER Diagram
 ![ERD](/assets/img/soccer_schema.png)
 
 ## Analysis
 ### Tools Used
-- **Excel:** The CSV files with the data can be found in [here]()
+- **Excel:** The CSV files with the data can be found in [here](/analysis/setup/source-data)
 - **PostgreSQL/pgAdmin:** The queries that address each question can be found in [here]()
 
 ### Questions
