@@ -31,7 +31,7 @@ The code for the creation of the tables can be found [here](https://github.com/t
 ### Questions
 I created a [set of questions](https://github.com/taimur-butt/Soccer-Analysis-SQL-Project/blob/main/analysis/setup/Questions.txt) based on my knowledge of the data, common soccer analyses, and the level of SQL proficiency I aimed to demonstrate. Below is each question with a screenshot of the query result **(click on any screenshot to see specific query)**:
 
-#### 1) Which players have scored more than 200 goals? What are their total goals, assists, yellow cards, and red cards?
+###### 1) Which players have scored more than 200 goals? What are their total goals, assists, yellow cards, and red cards?
 
 ![Answer1](assets/img/(A1)-Top-Scorers-Stats.png)
 
@@ -41,7 +41,7 @@ I created a [set of questions](https://github.com/taimur-butt/Soccer-Analysis-SQ
 
 #### 3) Who has won the Golden Boot since 2018? How many goals did the winner score?
 
-![Answer3](assets/img(A3)-Golden-Boot-Winners.png)
+![Answer3](assets/img/(A3)-Golden-Boot-Winners.png)
 
 #### 4) Which teams have had the best Goal Difference in the past two seasons?
 
